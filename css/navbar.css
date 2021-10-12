@@ -57,7 +57,7 @@
     display: none;
 }
 
-@media (max-widht: 950px){
+@media (max-width: 950px){
     body{
         background-color: blue;
     }
