@@ -10,6 +10,13 @@
     --text-color-inverse:white;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+section [id]{
+    scroll-margin-top: 70px;
+}
+
 
 body{
     font-family: 'Montserrat', sans-serif;
