@@ -40,6 +40,12 @@ a{
     padding-right: 25px;
 }
 
+footer{
+    text-align: center;
+    color: var(--text-color);
+    font-weight: bold;
+}
+
 @media (mind-width: 950px){
     .vertical-padding{
         padding-top: 70px;
